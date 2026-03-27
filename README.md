@@ -1,6 +1,6 @@
 # 📦 Contract Templates (Soroban Smart Contract)
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/33f5c4ce-d959-4af1-81fb-1d80c98a198f" />
 
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/abf5eb2f-d3df-4c6c-8ba2-065f965022d8" />
 
 ## 📖 Project Description
 
